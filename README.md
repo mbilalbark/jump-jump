@@ -6,7 +6,7 @@ Playing the game; This have a menu, play game,credits, quit game,
 
 <img src="http://i.hizliresim.com/WgD5pP.png" width="500" height="300" >
 
-When you click on start button,  Starting game and you will see game scene, the scene have hulk, spiderman and deapool. 
+When you click on play button, Starting game and you will see game scene, the scene have hulk, spiderman and deapool. 
 
 <img src="http://i.hizliresim.com/njlnQB.png" width="500" height="300" >
 
